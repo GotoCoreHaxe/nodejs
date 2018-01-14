@@ -1,0 +1,20 @@
+{
+  "name": "gotocore-hx-nodejs",
+  "url": "https://github.com/varadig/GotoCoreHaxe/nodejs",
+  "license": "MIT",
+  "tags": [
+    "nodejs"
+  ],
+  "description": "",
+  "version": "0.0.1",
+  "classPath": "src",
+  "releasenote": "",
+  "contributors": [
+    "varadig"
+  ],
+  "dependencies": {
+    "gotocore-hx": "",
+    "hxnodejs": "4.0.9",
+    "js-kit":""
+  }
+}
