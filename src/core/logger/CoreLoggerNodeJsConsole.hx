@@ -1,7 +1,7 @@
 package core.logger;
 import core.logger.base.CoreBaseLogger;
 import js.Node;
-class CoreLoggerConsole extends CoreBaseLogger {
+class CoreLoggerNodeJsConsole extends CoreBaseLogger {
     public function new() {
         super();
     }
